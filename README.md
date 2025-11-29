@@ -30,7 +30,7 @@ cd montecarlo
 You can also use the following lines to run the code, if first you open Python in a folder with the Notebook:
 
 ```bash
-jupyter notebook montcarl.ipynb
+jupyter notebook Simulacion_Montecarlo.ipynb
 ```
 
 # License
