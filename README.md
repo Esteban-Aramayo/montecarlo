@@ -1,6 +1,5 @@
 <!-- -*- mode: gfm -*- -->
 [![GitHub Release](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Esteban-Aramayo/montecarlo/tree/main)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 
@@ -19,7 +18,7 @@ Our code has the following necessary packages:
 
 # Installation
 
-To install and use our code it is recommended you first have Python 3.12 and create a virtual environment [venv](https://docs.python.org/3/library/venv.html) with the aforementioned packages. To run our code you need to download the [Jupyter Notebook](https://github.com/Esteban-Aramayo/montecarlo/blob/main/montcarl.ipynb) and directly run. 
+To install and use our code it is recommended you first have Python 3.12 and create a virtual environment [venv](https://docs.python.org/3/library/venv.html) with the aforementioned packages. To run our code you need to download the [Jupyter Notebook](https://github.com/Esteban-Aramayo/montecarlo/blob/main/Simulacion_Montecarlo.ipynb) and directly run. 
 
 You can clone our 'montecarlo' repository using git and change directory to it with:
 
@@ -33,9 +32,6 @@ You can also use the following lines to run the code, if first you open Python i
 ```bash
 jupyter notebook montcarl.ipynb
 ```
-
-# Google Colab
-If you don't want to clone the repository, you can also open the notebook in [Google Colab](https://colab.research.google.com/github/assk0401/montcarl/blob/main/montcarl.ipynb).
 
 # License
 
